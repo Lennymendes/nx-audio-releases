@@ -9,7 +9,7 @@
     "• NX Remote, Free and Premium editions"
   ],
   "downloadUrlMac": "https://github.com/Lennymendes/nx-audio-releases/releases/latest",
-  "downloadUrlWin": "https://github.com/Lennymendes/NX-Player/releases/latest",
-  "downloadUrlLinux": "https://github.com/Lennymendes/NX-Player/releases/latest",
+  "downloadUrlWin": "https://github.com/Lennymendes/nx-audio-releases/releases/latest",
+  "downloadUrlLinux": "https://github.com/Lennymendes/nx-audio-releases/releases/latest",
   "mandatory": false
 }
